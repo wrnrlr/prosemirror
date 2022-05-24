@@ -1,0 +1,23 @@
+export {
+  Node,
+  ResolvedPos,
+  NodeRange,
+  Fragment,
+  Slice,
+  ReplaceError,
+  Mark,
+  Schema,
+  NodeType,
+  Attrs,
+  MarkType,
+  NodeSpec,
+  MarkSpec,
+  AttributeSpec,
+  SchemaSpec,
+  ContentMatch,
+  DOMParser,
+  ParseRule,
+  ParseOptions,
+  DOMSerializer,
+  DOMOutputSpec
+} from "prosemirror-model";
